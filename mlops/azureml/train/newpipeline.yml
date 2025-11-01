@@ -70,7 +70,7 @@ jobs:
 
 
   register_model:
-    name: register_model # Provide the job name
+    name: register_model # Provide the job name 
     display_name: register-trained-model # Provide the display name for the job
     code: ../../../data-science/src
     command: >-
